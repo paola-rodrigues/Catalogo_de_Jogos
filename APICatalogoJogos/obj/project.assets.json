@@ -204,11 +204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paola\\Downloads\\ApiCatalogoJogos-master\\ApiCatalogoJogos-master\\APICatalogoJogos\\APICatalogoJogos.csproj",
+      "projectUniqueName": "C:\\Users\\paola\\OneDrive\\Documentos\\ApiCatalogoJogos-master\\ApiCatalogoJogos-master\\Catalogo_de_Jogos\\APICatalogoJogos\\APICatalogoJogos.csproj",
       "projectName": "APICatalogoJogos",
-      "projectPath": "C:\\Users\\paola\\Downloads\\ApiCatalogoJogos-master\\ApiCatalogoJogos-master\\APICatalogoJogos\\APICatalogoJogos.csproj",
+      "projectPath": "C:\\Users\\paola\\OneDrive\\Documentos\\ApiCatalogoJogos-master\\ApiCatalogoJogos-master\\Catalogo_de_Jogos\\APICatalogoJogos\\APICatalogoJogos.csproj",
       "packagesPath": "C:\\Users\\paola\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paola\\Downloads\\ApiCatalogoJogos-master\\ApiCatalogoJogos-master\\APICatalogoJogos\\obj\\",
+      "outputPath": "C:\\Users\\paola\\OneDrive\\Documentos\\ApiCatalogoJogos-master\\ApiCatalogoJogos-master\\Catalogo_de_Jogos\\APICatalogoJogos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paola\\AppData\\Roaming\\NuGet\\NuGet.Config",
